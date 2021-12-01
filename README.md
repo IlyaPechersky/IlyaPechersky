@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlyaPechersky
 - 👀 I’m interested in java backend
-- 🌱 I’m currently ML and DL
+- 🌱 I’m currently learning ML and DL
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - write here i.pechersky@innopolis.university
 

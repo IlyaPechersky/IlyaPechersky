@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IlyaPechersky
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning web frameworks
+- 👀 I’m interested in java backend
+- 🌱 I’m currently ML and DL
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me - write here foodgamesimple@gmail.com
+- 📫 How to reach me - write here i.pechersky@innopolis.university
 
 <!---
 IlyaPechersky/IlyaPechersky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
